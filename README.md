@@ -1,2 +1,1 @@
-# Housing-Price-Prediction
-Build a linear regression model to predict the housing prices in Boston.
+In this project, I've tried to build a Linear Regression model to predict the housing prices based on 13 features. The dataset has been taken from [Kaggle](https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd).
